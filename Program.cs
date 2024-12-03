@@ -4,10 +4,14 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
+app.UseStaticFiles();
+
+app.UseRouting();
+
 //controller/action/?id
 // app.MapDefaultControllerRoute();
 app.MapControllerRoute(name:"default",
-pattern:"{controller=Meeting}/{action=index}/{id?}"
+pattern:"{controller=Home}/{action=index}/{id?}"
 );
 
 app.Run();

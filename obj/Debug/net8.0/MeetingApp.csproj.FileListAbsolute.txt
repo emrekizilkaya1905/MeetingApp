@@ -24,3 +24,7 @@ C:\Users\kizil\OneDrive\Desktop\MeetingApp\obj\Debug\net8.0\MeetingApp.pdb
 C:\Users\kizil\OneDrive\Desktop\MeetingApp\obj\Debug\net8.0\MeetingApp.genruntimeconfig.cache
 C:\Users\kizil\OneDrive\Desktop\MeetingApp\obj\Debug\net8.0\ref\MeetingApp.dll
 C:\Users\kizil\OneDrive\Desktop\MeetingApp\obj\Debug\net8.0\MeetingApp.sourcelink.json
+C:\Users\kizil\OneDrive\Desktop\MeetingApp\obj\Debug\net8.0\MeetingApp.RazorAssemblyInfo.cache
+C:\Users\kizil\OneDrive\Desktop\MeetingApp\obj\Debug\net8.0\MeetingApp.RazorAssemblyInfo.cs
+C:\Users\kizil\OneDrive\Desktop\MeetingApp\bin\Debug\net8.0\libman.json
+C:\Users\kizil\OneDrive\Desktop\MeetingApp\bin\Debug\net8.0\MeetingApp.staticwebassets.runtime.json
